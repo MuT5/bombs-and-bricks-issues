@@ -16,16 +16,6 @@ Open an issue and describe:
 
 Screenshots, videos, device details, and browser information are helpful, but not required.
 
-## Privacy requests
-
-Bombs & Bricks stores a pseudonymous identifier used for the daily leaderboard. It does not store any other information that directly identifies you.
-
-To request deletion of the leaderboard data associated with your identifier, open an issue and provide the identifier. You do not need to disclose your name or any other personal information.
-
-Please remember that GitHub issues are public. Do not include your name, email address, wallet seed phrase, private keys, passwords, or any other sensitive information.
-
-This is the contact method referenced in the game's Privacy Policy.
-
 ## Questions and ideas
 
 Questions, suggestions, and gameplay ideas are also welcome. Open an issue and describe your idea or question as clearly as possible.
