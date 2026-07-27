@@ -10,7 +10,8 @@ playing can actually reach the developer:
   leaderboard and nothing else that identifies you. If you want the data behind
   yours removed, open an issue — you do not have to say who you are beyond the
   identifier itself. This is the route the game's
-  [privacy policy](https://bombsbricks.com/privacy.html) points to.
+  [privacy policy](https://bombsbricks.com/privacy) points to.
 - **Question or idea.** Also welcome.
 
 No code is published here — only issues.
+
