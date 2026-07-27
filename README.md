@@ -1,17 +1,35 @@
-# Bombs & Bricks — issues
+# Bombs & Bricks - Issue Tracker
 
 Public issue tracker for **[Bombs & Bricks](https://bombsbricks.com)**.
 
-The game's source lives in a private repository. This one exists so that anyone
-playing can actually reach the developer:
+This is the public issue tracker for Bombs & Bricks.
 
-- **Found a bug?** Open an issue. Say what you were doing and what happened.
-- **Privacy request.** The game stores a pseudonymous identifier for the daily
-  leaderboard and nothing else that identifies you. If you want the data behind
-  yours removed, open an issue — you do not have to say who you are beyond the
-  identifier itself. This is the route the game's
-  [privacy policy](https://bombsbricks.com/privacy) points to.
-- **Question or idea.** Also welcome.
+The game's source code is hosted in a private repository. This repository exists so that players can report bugs, submit privacy requests, ask questions, and share ideas directly with the developer.
 
-No code is published here — only issues.
+## Found a bug?
 
+Open an issue and describe:
+
+- what you were doing,
+- what you expected to happen,
+- what actually happened.
+
+Screenshots, videos, device details, and browser information are helpful, but not required.
+
+## Privacy requests
+
+Bombs & Bricks stores a pseudonymous identifier used for the daily leaderboard. It does not store any other information that directly identifies you.
+
+To request deletion of the leaderboard data associated with your identifier, open an issue and provide the identifier. You do not need to disclose your name or any other personal information.
+
+Please remember that GitHub issues are public. Do not include your name, email address, wallet seed phrase, private keys, passwords, or any other sensitive information.
+
+This is the contact method referenced in the game's Privacy Policy.
+
+## Questions and ideas
+
+Questions, suggestions, and gameplay ideas are also welcome. Open an issue and describe your idea or question as clearly as possible.
+
+## Source code
+
+No source code is published in this repository. It contains only issues and public project information.
