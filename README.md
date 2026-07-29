@@ -1,25 +1,49 @@
-# Bombs & Bricks - Issue Tracker
+# Bombs & Bricks — issues
 
 Public issue tracker for **[Bombs & Bricks](https://bombsbricks.com)**.
 
-This is the public issue tracker for Bombs & Bricks.
+The game's source lives in a private repository. This one exists so that anyone
+playing can reach the developer.
 
-The game's source code is hosted in a private repository. This repository exists so that players can report bugs, submit privacy requests, ask questions, and share ideas directly with the developer.
+## ⚠️ Never post your account code here
 
-## Found a bug?
+This tracker is **public** — anything you write is readable by everyone,
+forever.
 
-Open an issue and describe:
+The game can show you an **account code** (and a QR for it) that carries your
+progress and your place on the daily board. It works like a password: anyone who
+has it plays as you. So:
 
-- what you were doing,
-- what you expected to happen,
-- what actually happened.
+- Do not paste your account code, or a screenshot of its QR, into an issue.
+- Do not paste your daily identifier either.
+- **Nobody needs it — including the developer.** If anyone ever asks you for it,
+  they are not helping you.
 
-Screenshots, videos, device details, and browser information are helpful, but not required.
+You never have to provide any of it to open an issue.
 
-## Questions and ideas
+## Removing your data
 
-Questions, suggestions, and gameplay ideas are also welcome. Open an issue and describe your idea or question as clearly as possible.
+You do not need this tracker, or the developer, to erase anything:
 
-## Source code
+- **Everything on your device** — clear the site's data in your browser
+  settings. Settings, progress, recordings and your identifier all go, and a
+  fresh identifier is generated next time you play.
+- **Your daily board entry** — it expires on its own. Boards hold the current
+  and previous day only, so it is gone within two days regardless.
+- **A shared kill-cam** — open an issue with the clip link and it will be
+  deleted; otherwise it expires by itself after six months.
 
-No source code is published in this repository. It contains only issues and public project information.
+There is no player list on the server to look you up in, which is also why
+nothing can be restored for you.
+
+See the [privacy policy](https://bombsbricks.com/privacy) for what is actually
+stored and for how long.
+
+## What this tracker is good for
+
+- **Bugs.** Say what you were doing and what happened. A clip link helps.
+- **Questions**, including about privacy.
+- **Ideas.**
+
+No code is published here — only issues.
+
